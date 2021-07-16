@@ -1,0 +1,1001 @@
+,conta,duração,quantia,poupança,emprego,idade,creditos,trabalho,pagador
+0,negativo,6,1169,sem conta,> 7 anos,67,2,nível 2,bom
+1,[0-200),48,5951,<100,"[1,4) anos",22,1,nível 2,mau
+2,sem conta,12,2096,<100,"[4,7) anos",49,1,nível 1,bom
+3,negativo,42,7882,<100,"[4,7) anos",45,1,nível 2,bom
+4,negativo,24,4870,<100,"[1,4) anos",53,2,nível 2,mau
+5,sem conta,36,9055,sem conta,"[1,4) anos",35,1,nível 1,bom
+6,sem conta,24,2835,[500-1000),> 7 anos,53,1,nível 2,bom
+7,[0-200),36,6948,<100,"[1,4) anos",35,1,nível 3,bom
+8,sem conta,12,3059,>1000,"[4,7) anos",61,1,nível 1,bom
+9,[0-200),30,5234,<100,desempregado,28,2,nível 3,mau
+10,[0-200),12,1295,<100,< 1 ano,25,1,nível 2,mau
+11,negativo,48,4308,<100,< 1 ano,24,1,nível 2,mau
+12,[0-200),12,1567,<100,"[1,4) anos",22,1,nível 2,bom
+13,negativo,24,1199,<100,> 7 anos,60,2,nível 1,mau
+14,negativo,15,1403,<100,"[1,4) anos",28,1,nível 2,bom
+15,negativo,24,1282,[100-500),"[1,4) anos",32,1,nível 1,mau
+16,sem conta,24,2424,sem conta,> 7 anos,53,2,nível 2,bom
+17,negativo,30,8072,sem conta,< 1 ano,25,3,nível 2,bom
+18,[0-200),24,12579,<100,> 7 anos,44,1,nível 3,mau
+19,sem conta,24,3430,[500-1000),> 7 anos,31,1,nível 2,bom
+20,sem conta,9,2134,<100,"[1,4) anos",48,3,nível 2,bom
+21,negativo,6,2647,[500-1000),"[1,4) anos",44,1,nível 2,bom
+22,negativo,10,2241,<100,< 1 ano,48,2,nível 1,bom
+23,[0-200),12,1804,[100-500),< 1 ano,44,1,nível 2,bom
+24,sem conta,10,2069,sem conta,"[1,4) anos",26,2,nível 2,bom
+25,negativo,6,1374,<100,"[1,4) anos",36,1,nível 1,bom
+26,sem conta,6,426,<100,> 7 anos,39,1,nível 1,bom
+27,200+,12,409,>1000,"[1,4) anos",42,2,nível 2,bom
+28,[0-200),7,2415,<100,"[1,4) anos",34,1,nível 2,bom
+29,negativo,60,6836,<100,> 7 anos,63,2,nível 2,mau
+30,[0-200),18,1913,>1000,< 1 ano,36,1,nível 2,bom
+31,negativo,24,4020,<100,"[1,4) anos",27,1,nível 2,bom
+32,[0-200),18,5866,[100-500),"[1,4) anos",30,2,nível 2,bom
+33,sem conta,12,1264,sem conta,> 7 anos,57,1,nível 1,bom
+34,200+,12,1474,<100,< 1 ano,33,1,nível 3,bom
+35,[0-200),45,4746,<100,< 1 ano,25,2,nível 1,mau
+36,sem conta,48,6110,<100,"[1,4) anos",31,1,nível 2,bom
+37,200+,18,2100,<100,"[1,4) anos",37,1,nível 2,mau
+38,200+,10,1225,<100,"[1,4) anos",37,1,nível 2,bom
+39,[0-200),9,458,<100,"[1,4) anos",24,1,nível 2,bom
+40,sem conta,30,2333,[500-1000),> 7 anos,30,1,nível 3,bom
+41,[0-200),12,1158,[500-1000),"[1,4) anos",26,1,nível 2,bom
+42,[0-200),18,6204,<100,"[1,4) anos",44,1,nível 1,bom
+43,negativo,30,6187,[100-500),"[4,7) anos",24,2,nível 2,bom
+44,negativo,48,6143,<100,> 7 anos,58,2,nível 1,mau
+45,sem conta,11,1393,<100,< 1 ano,35,2,nível 3,bom
+46,sem conta,36,2299,[500-1000),> 7 anos,39,1,nível 2,bom
+47,negativo,6,1352,[500-1000),desempregado,23,1,desempregado,bom
+48,sem conta,11,7228,<100,"[1,4) anos",39,2,nível 1,bom
+49,sem conta,12,2073,[100-500),"[1,4) anos",28,1,nível 2,bom
+50,[0-200),24,2333,sem conta,< 1 ano,29,1,nível 1,bom
+51,[0-200),27,5965,<100,> 7 anos,30,2,nível 3,bom
+52,sem conta,12,1262,<100,"[1,4) anos",25,1,nível 2,bom
+53,sem conta,18,3378,sem conta,"[1,4) anos",31,1,nível 2,bom
+54,[0-200),36,2225,<100,> 7 anos,57,2,nível 2,mau
+55,sem conta,6,783,sem conta,"[1,4) anos",26,1,nível 1,bom
+56,[0-200),12,6468,sem conta,desempregado,52,1,nível 3,mau
+57,sem conta,36,9566,<100,"[1,4) anos",31,2,nível 2,bom
+58,200+,18,1961,<100,> 7 anos,23,1,nível 3,bom
+59,negativo,36,6229,<100,< 1 ano,23,2,nível 1,mau
+60,[0-200),9,1391,<100,"[1,4) anos",27,1,nível 2,bom
+61,[0-200),15,1537,sem conta,> 7 anos,50,2,nível 2,bom
+62,[0-200),36,1953,<100,> 7 anos,61,1,nível 3,mau
+63,[0-200),48,14421,<100,"[1,4) anos",25,1,nível 2,mau
+64,sem conta,24,3181,<100,< 1 ano,26,1,nível 2,bom
+65,sem conta,27,5190,sem conta,> 7 anos,48,4,nível 2,bom
+66,sem conta,12,2171,<100,< 1 ano,29,1,nível 2,bom
+67,[0-200),12,1007,>1000,"[1,4) anos",22,1,nível 2,bom
+68,sem conta,36,1819,<100,"[1,4) anos",37,1,nível 2,mau
+69,sem conta,36,2394,sem conta,"[1,4) anos",25,1,nível 2,bom
+70,sem conta,36,8133,<100,"[1,4) anos",30,1,nível 2,bom
+71,sem conta,7,730,sem conta,> 7 anos,46,2,nível 1,bom
+72,negativo,8,1164,<100,> 7 anos,51,2,nível 3,bom
+73,[0-200),42,5954,<100,"[4,7) anos",41,2,nível 1,bom
+74,negativo,36,1977,sem conta,> 7 anos,40,1,nível 3,mau
+75,negativo,12,1526,<100,> 7 anos,66,2,nível 3,bom
+76,negativo,42,3965,<100,< 1 ano,34,1,nível 2,mau
+77,[0-200),11,4771,<100,"[4,7) anos",51,1,nível 2,bom
+78,sem conta,54,9436,sem conta,"[1,4) anos",39,1,nível 1,bom
+79,[0-200),30,3832,<100,< 1 ano,22,1,nível 2,bom
+80,sem conta,24,5943,sem conta,< 1 ano,44,2,nível 2,mau
+81,sem conta,15,1213,[500-1000),> 7 anos,47,1,nível 2,bom
+82,sem conta,18,1568,[100-500),"[1,4) anos",24,1,nível 1,bom
+83,negativo,24,1755,<100,> 7 anos,58,1,nível 1,bom
+84,negativo,10,2315,<100,> 7 anos,52,1,nível 1,bom
+85,sem conta,12,1412,<100,"[1,4) anos",29,2,nível 3,bom
+86,[0-200),18,1295,<100,< 1 ano,27,2,nível 2,bom
+87,[0-200),36,12612,[100-500),"[1,4) anos",47,1,nível 2,mau
+88,negativo,18,2249,[100-500),"[4,7) anos",30,1,nível 3,bom
+89,negativo,12,1108,<100,"[4,7) anos",28,2,nível 2,mau
+90,sem conta,12,618,<100,> 7 anos,56,1,nível 2,bom
+91,negativo,12,1409,<100,> 7 anos,54,1,nível 2,bom
+92,sem conta,12,797,sem conta,> 7 anos,33,1,nível 1,mau
+93,200+,24,3617,sem conta,> 7 anos,20,2,nível 2,bom
+94,[0-200),12,1318,>1000,> 7 anos,54,1,nível 2,bom
+95,[0-200),54,15945,<100,< 1 ano,58,1,nível 2,mau
+96,sem conta,12,2012,sem conta,"[4,7) anos",61,1,nível 2,bom
+97,[0-200),18,2622,[100-500),"[1,4) anos",34,1,nível 2,bom
+98,[0-200),36,2337,<100,> 7 anos,36,1,nível 2,bom
+99,[0-200),20,7057,sem conta,"[4,7) anos",36,2,nível 3,bom
+100,sem conta,24,1469,[100-500),> 7 anos,41,1,nível 1,bom
+101,[0-200),36,2323,<100,"[4,7) anos",24,1,nível 2,bom
+102,sem conta,6,932,<100,"[1,4) anos",24,1,nível 2,bom
+103,[0-200),9,1919,<100,"[4,7) anos",35,1,nível 2,bom
+104,sem conta,12,2445,sem conta,< 1 ano,26,1,nível 2,bom
+105,[0-200),24,11938,<100,"[1,4) anos",39,2,nível 3,mau
+106,sem conta,18,6458,<100,> 7 anos,39,2,nível 3,mau
+107,[0-200),12,6078,<100,"[4,7) anos",32,1,nível 2,bom
+108,negativo,24,7721,sem conta,< 1 ano,30,1,nível 2,bom
+109,[0-200),14,1410,[500-1000),> 7 anos,35,1,nível 2,bom
+110,[0-200),6,1449,[100-500),> 7 anos,31,2,nível 2,bom
+111,200+,15,392,<100,< 1 ano,23,1,nível 2,bom
+112,[0-200),18,6260,<100,"[4,7) anos",28,1,nível 1,bom
+113,sem conta,36,7855,<100,"[1,4) anos",25,2,nível 2,mau
+114,negativo,12,1680,[500-1000),> 7 anos,35,1,nível 2,bom
+115,sem conta,48,3578,sem conta,> 7 anos,47,1,nível 2,bom
+116,negativo,42,7174,sem conta,"[4,7) anos",30,1,nível 3,mau
+117,negativo,10,2132,sem conta,< 1 ano,27,2,nível 2,bom
+118,negativo,33,4281,[500-1000),"[1,4) anos",23,2,nível 2,mau
+119,[0-200),12,2366,[500-1000),"[4,7) anos",36,1,nível 3,bom
+120,negativo,21,1835,<100,"[1,4) anos",25,2,nível 2,mau
+121,sem conta,24,3868,<100,> 7 anos,41,2,nível 3,bom
+122,sem conta,12,1768,<100,"[1,4) anos",24,1,nível 1,bom
+123,200+,10,781,<100,> 7 anos,63,2,nível 2,bom
+124,[0-200),18,1924,sem conta,< 1 ano,27,1,nível 2,mau
+125,negativo,12,2121,<100,"[1,4) anos",30,2,nível 2,bom
+126,negativo,12,701,<100,"[1,4) anos",40,1,nível 1,bom
+127,[0-200),12,639,<100,"[1,4) anos",30,1,nível 2,mau
+128,[0-200),12,1860,<100,desempregado,34,2,nível 3,bom
+129,negativo,12,3499,<100,"[1,4) anos",29,2,nível 2,mau
+130,[0-200),48,8487,sem conta,"[4,7) anos",24,1,nível 2,bom
+131,negativo,36,6887,<100,"[1,4) anos",29,1,nível 2,mau
+132,sem conta,15,2708,<100,< 1 ano,27,2,nível 1,bom
+133,sem conta,18,1984,<100,"[1,4) anos",47,2,nível 2,bom
+134,sem conta,60,10144,[100-500),"[4,7) anos",21,1,nível 2,bom
+135,sem conta,12,1240,sem conta,> 7 anos,38,2,nível 2,bom
+136,sem conta,27,8613,>1000,"[1,4) anos",27,2,nível 2,bom
+137,[0-200),12,766,[500-1000),"[1,4) anos",66,1,nível 1,mau
+138,[0-200),15,2728,sem conta,"[4,7) anos",35,3,nível 2,bom
+139,200+,12,1881,<100,"[1,4) anos",44,1,nível 1,bom
+140,200+,6,709,>1000,< 1 ano,27,1,desempregado,bom
+141,[0-200),36,4795,<100,< 1 ano,30,1,nível 3,bom
+142,negativo,27,3416,<100,"[1,4) anos",27,1,nível 3,bom
+143,negativo,18,2462,<100,"[1,4) anos",22,1,nível 2,mau
+144,sem conta,21,2288,<100,< 1 ano,23,1,nível 2,bom
+145,[0-200),48,3566,[100-500),"[4,7) anos",30,1,nível 2,bom
+146,negativo,6,860,<100,> 7 anos,39,2,nível 2,bom
+147,sem conta,12,682,[100-500),"[4,7) anos",51,2,nível 2,bom
+148,negativo,36,5371,<100,"[1,4) anos",28,2,nível 2,bom
+149,sem conta,18,1582,>1000,> 7 anos,46,2,nível 2,bom
+150,sem conta,6,1346,[100-500),> 7 anos,42,1,nível 2,bom
+151,sem conta,10,1924,<100,"[1,4) anos",38,1,nível 2,bom
+152,200+,36,5848,<100,"[1,4) anos",24,1,nível 2,bom
+153,[0-200),24,7758,>1000,> 7 anos,29,1,nível 2,bom
+154,[0-200),24,6967,[100-500),"[4,7) anos",36,1,nível 3,bom
+155,negativo,12,1282,<100,"[1,4) anos",20,1,nível 2,mau
+156,negativo,9,1288,[100-500),> 7 anos,48,2,nível 2,bom
+157,negativo,12,339,<100,> 7 anos,45,1,nível 1,bom
+158,[0-200),24,3512,[100-500),"[4,7) anos",38,2,nível 2,bom
+159,sem conta,6,1898,sem conta,"[1,4) anos",34,2,nível 1,bom
+160,sem conta,24,2872,[100-500),> 7 anos,36,1,nível 2,bom
+161,sem conta,18,1055,<100,< 1 ano,30,2,nível 2,bom
+162,sem conta,15,1262,[500-1000),"[4,7) anos",36,2,nível 2,bom
+163,[0-200),10,7308,<100,desempregado,70,1,nível 3,bom
+164,sem conta,36,909,[500-1000),> 7 anos,36,1,nível 2,bom
+165,sem conta,6,2978,[500-1000),"[1,4) anos",32,1,nível 2,bom
+166,negativo,18,1131,<100,desempregado,33,1,nível 2,mau
+167,[0-200),11,1577,>1000,< 1 ano,20,1,nível 2,bom
+168,sem conta,24,3972,<100,"[4,7) anos",25,1,nível 2,bom
+169,[0-200),24,1935,<100,> 7 anos,31,2,nível 2,mau
+170,negativo,15,950,<100,> 7 anos,33,2,nível 2,mau
+171,sem conta,12,763,<100,"[1,4) anos",26,1,nível 2,bom
+172,[0-200),24,2064,<100,desempregado,34,1,nível 3,mau
+173,[0-200),8,1414,<100,"[1,4) anos",33,1,nível 2,bom
+174,negativo,21,3414,<100,< 1 ano,26,2,nível 2,mau
+175,sem conta,30,7485,sem conta,desempregado,53,1,nível 3,mau
+176,negativo,12,2577,<100,"[1,4) anos",42,1,nível 2,bom
+177,negativo,6,338,[500-1000),> 7 anos,52,2,nível 2,bom
+178,sem conta,12,1963,<100,"[4,7) anos",31,2,nível 3,bom
+179,negativo,21,571,<100,> 7 anos,65,2,nível 2,bom
+180,sem conta,36,9572,<100,< 1 ano,28,2,nível 2,mau
+181,[0-200),36,4455,<100,"[1,4) anos",30,2,nível 3,mau
+182,negativo,21,1647,sem conta,"[1,4) anos",40,2,nível 1,mau
+183,sem conta,24,3777,>1000,"[1,4) anos",50,1,nível 2,bom
+184,[0-200),18,884,<100,> 7 anos,36,1,nível 2,mau
+185,sem conta,15,1360,<100,"[1,4) anos",31,2,nível 2,bom
+186,[0-200),9,5129,<100,> 7 anos,74,1,nível 3,mau
+187,[0-200),16,1175,<100,desempregado,68,3,desempregado,bom
+188,negativo,12,674,[100-500),"[4,7) anos",20,1,nível 2,mau
+189,[0-200),18,3244,<100,"[1,4) anos",33,2,nível 2,bom
+190,sem conta,24,4591,>1000,"[1,4) anos",54,3,nível 3,mau
+191,[0-200),48,3844,[100-500),"[4,7) anos",34,1,nível 1,mau
+192,[0-200),27,3915,<100,"[1,4) anos",36,1,nível 2,mau
+193,sem conta,6,2108,<100,"[4,7) anos",29,1,nível 2,bom
+194,[0-200),45,3031,[100-500),"[1,4) anos",21,1,nível 2,mau
+195,[0-200),9,1501,<100,> 7 anos,34,2,nível 3,mau
+196,sem conta,6,1382,<100,"[1,4) anos",28,2,nível 2,bom
+197,[0-200),12,951,[100-500),< 1 ano,27,4,nível 2,mau
+198,[0-200),24,2760,sem conta,> 7 anos,36,1,nível 2,bom
+199,[0-200),18,4297,<100,> 7 anos,40,1,nível 3,mau
+200,sem conta,9,936,[500-1000),> 7 anos,52,2,nível 2,bom
+201,negativo,12,1168,<100,"[1,4) anos",27,1,nível 1,bom
+202,sem conta,27,5117,<100,"[4,7) anos",26,2,nível 2,bom
+203,negativo,12,902,<100,"[4,7) anos",21,1,nível 2,mau
+204,sem conta,12,1495,<100,> 7 anos,38,2,nível 1,bom
+205,negativo,30,10623,<100,> 7 anos,38,3,nível 3,bom
+206,sem conta,12,1935,<100,> 7 anos,43,3,nível 2,bom
+207,[0-200),12,1424,<100,"[4,7) anos",26,1,nível 2,bom
+208,negativo,24,6568,<100,"[1,4) anos",21,1,nível 1,bom
+209,sem conta,12,1413,>1000,"[4,7) anos",55,1,nível 2,bom
+210,sem conta,9,3074,sem conta,"[1,4) anos",33,2,nível 2,bom
+211,sem conta,36,3835,sem conta,> 7 anos,45,1,nível 1,bom
+212,negativo,27,5293,<100,desempregado,50,2,nível 2,mau
+213,200+,30,1908,<100,> 7 anos,66,1,nível 3,mau
+214,sem conta,36,3342,sem conta,> 7 anos,51,1,nível 2,bom
+215,[0-200),6,932,sem conta,"[4,7) anos",39,2,nível 1,bom
+216,negativo,18,3104,<100,"[4,7) anos",31,1,nível 2,bom
+217,200+,36,3913,<100,"[1,4) anos",23,1,nível 2,bom
+218,negativo,24,3021,<100,"[1,4) anos",24,1,nível 1,bom
+219,sem conta,10,1364,<100,"[1,4) anos",64,1,nível 2,bom
+220,[0-200),12,625,<100,< 1 ano,26,1,nível 1,bom
+221,negativo,12,1200,sem conta,"[1,4) anos",23,1,nível 2,bom
+222,sem conta,12,707,<100,"[1,4) anos",30,2,nível 2,bom
+223,sem conta,24,2978,sem conta,"[1,4) anos",32,2,nível 2,bom
+224,sem conta,15,4657,<100,"[1,4) anos",30,1,nível 2,bom
+225,sem conta,36,2613,<100,"[1,4) anos",27,2,nível 2,bom
+226,[0-200),48,10961,>1000,"[4,7) anos",27,2,nível 2,mau
+227,negativo,12,7865,<100,> 7 anos,53,1,nível 3,mau
+228,sem conta,9,1478,<100,"[4,7) anos",22,1,nível 2,mau
+229,negativo,24,3149,<100,< 1 ano,22,1,nível 2,bom
+230,200+,36,4210,<100,"[1,4) anos",26,1,nível 2,mau
+231,sem conta,9,2507,[500-1000),> 7 anos,51,1,nível 1,bom
+232,sem conta,12,2141,[100-500),"[4,7) anos",35,1,nível 2,bom
+233,[0-200),18,866,<100,"[1,4) anos",25,1,nível 1,bom
+234,sem conta,4,1544,<100,"[4,7) anos",42,3,nível 1,bom
+235,negativo,24,1823,<100,desempregado,30,1,nível 3,mau
+236,[0-200),6,14555,sem conta,desempregado,23,1,desempregado,mau
+237,[0-200),21,2767,[100-500),> 7 anos,61,2,nível 1,mau
+238,sem conta,12,1291,<100,"[1,4) anos",35,2,nível 2,bom
+239,negativo,30,2522,<100,> 7 anos,39,1,nível 2,bom
+240,negativo,24,915,sem conta,> 7 anos,29,1,nível 2,mau
+241,sem conta,6,1595,<100,"[4,7) anos",51,1,nível 2,bom
+242,negativo,48,4605,<100,> 7 anos,24,2,nível 2,mau
+243,sem conta,12,1185,<100,"[1,4) anos",27,2,nível 2,bom
+244,sem conta,12,3447,[500-1000),"[1,4) anos",35,1,nível 1,bom
+245,sem conta,24,1258,<100,"[4,7) anos",25,1,nível 2,bom
+246,sem conta,12,717,<100,> 7 anos,52,3,nível 2,bom
+247,sem conta,6,1204,[100-500),"[1,4) anos",35,1,nível 2,bom
+248,200+,24,1925,<100,"[1,4) anos",26,1,nível 2,bom
+249,sem conta,18,433,<100,desempregado,22,1,nível 2,mau
+250,negativo,6,666,>1000,"[4,7) anos",39,2,nível 1,bom
+251,200+,12,2251,<100,"[1,4) anos",46,1,nível 1,bom
+252,[0-200),30,2150,<100,"[1,4) anos",24,1,nível 2,mau
+253,sem conta,24,4151,[100-500),"[1,4) anos",35,2,nível 2,bom
+254,[0-200),9,2030,sem conta,"[4,7) anos",24,1,nível 2,bom
+255,[0-200),60,7418,sem conta,"[1,4) anos",27,1,nível 1,bom
+256,sem conta,24,2684,<100,"[1,4) anos",35,2,nível 1,bom
+257,negativo,12,2149,<100,"[1,4) anos",29,1,nível 2,mau
+258,sem conta,15,3812,[100-500),< 1 ano,23,1,nível 2,bom
+259,sem conta,11,1154,[100-500),desempregado,57,3,nível 1,bom
+260,negativo,12,1657,<100,"[1,4) anos",27,1,nível 2,bom
+261,negativo,24,1603,<100,> 7 anos,55,1,nível 2,bom
+262,negativo,18,5302,<100,> 7 anos,36,3,nível 3,bom
+263,sem conta,12,2748,<100,> 7 anos,57,3,nível 1,bom
+264,sem conta,10,1231,<100,> 7 anos,32,2,nível 1,bom
+265,[0-200),15,802,<100,> 7 anos,37,1,nível 2,mau
+266,sem conta,36,6304,sem conta,> 7 anos,36,2,nível 2,bom
+267,sem conta,24,1533,<100,< 1 ano,38,1,nível 2,bom
+268,negativo,14,8978,<100,> 7 anos,45,1,nível 3,mau
+269,sem conta,24,999,sem conta,> 7 anos,25,2,nível 2,bom
+270,sem conta,18,2662,sem conta,"[4,7) anos",32,1,nível 2,bom
+271,sem conta,12,1402,[500-1000),"[4,7) anos",37,1,nível 2,bom
+272,[0-200),48,12169,sem conta,desempregado,36,1,nível 3,bom
+273,[0-200),48,3060,<100,"[4,7) anos",28,2,nível 2,mau
+274,negativo,30,11998,<100,< 1 ano,34,1,nível 1,mau
+275,sem conta,9,2697,<100,"[1,4) anos",32,1,nível 2,bom
+276,sem conta,18,2404,<100,"[1,4) anos",26,2,nível 2,bom
+277,negativo,12,1262,sem conta,> 7 anos,49,1,nível 1,bom
+278,sem conta,6,4611,<100,< 1 ano,32,1,nível 2,mau
+279,sem conta,24,1901,[100-500),"[1,4) anos",29,1,nível 3,bom
+280,sem conta,15,3368,>1000,> 7 anos,23,2,nível 2,bom
+281,sem conta,12,1574,<100,"[1,4) anos",50,1,nível 2,bom
+282,200+,18,1445,sem conta,"[4,7) anos",49,1,nível 1,bom
+283,sem conta,15,1520,sem conta,> 7 anos,63,1,nível 2,bom
+284,[0-200),24,3878,[100-500),< 1 ano,37,1,nível 2,bom
+285,negativo,47,10722,<100,< 1 ano,35,1,nível 1,bom
+286,negativo,48,4788,<100,"[4,7) anos",26,1,nível 2,bom
+287,[0-200),48,7582,[100-500),desempregado,31,1,nível 3,bom
+288,[0-200),12,1092,<100,"[1,4) anos",49,2,nível 2,bom
+289,negativo,24,1024,<100,< 1 ano,48,1,nível 2,mau
+290,sem conta,12,1076,<100,"[1,4) anos",26,1,nível 2,bom
+291,[0-200),36,9398,<100,< 1 ano,28,1,nível 3,mau
+292,negativo,24,6419,<100,> 7 anos,44,2,nível 3,bom
+293,200+,42,4796,<100,> 7 anos,56,1,nível 2,bom
+294,sem conta,48,7629,sem conta,> 7 anos,46,2,nível 3,bom
+295,[0-200),48,9960,<100,< 1 ano,26,1,nível 2,mau
+296,sem conta,12,4675,sem conta,< 1 ano,20,1,nível 2,bom
+297,sem conta,10,1287,sem conta,> 7 anos,45,1,nível 1,bom
+298,sem conta,18,2515,<100,"[1,4) anos",43,1,nível 2,bom
+299,[0-200),21,2745,>1000,"[4,7) anos",32,2,nível 2,bom
+300,sem conta,6,672,<100,desempregado,54,1,desempregado,bom
+301,[0-200),36,3804,<100,"[1,4) anos",42,1,nível 2,mau
+302,200+,24,1344,sem conta,"[4,7) anos",37,2,nível 1,mau
+303,negativo,10,1038,<100,"[4,7) anos",49,2,nível 2,bom
+304,sem conta,48,10127,[500-1000),"[1,4) anos",44,1,nível 2,mau
+305,sem conta,6,1543,>1000,"[1,4) anos",33,1,nível 2,bom
+306,sem conta,30,4811,sem conta,"[4,7) anos",24,1,nível 1,bom
+307,negativo,12,727,[100-500),< 1 ano,33,1,nível 1,mau
+308,[0-200),8,1237,<100,"[1,4) anos",24,1,nível 2,mau
+309,[0-200),9,276,<100,"[1,4) anos",22,1,nível 1,bom
+310,[0-200),48,5381,sem conta,desempregado,40,1,desempregado,bom
+311,sem conta,24,5511,[100-500),"[1,4) anos",25,1,nível 2,bom
+312,200+,24,3749,<100,< 1 ano,26,1,nível 2,bom
+313,[0-200),12,685,<100,"[4,7) anos",25,1,nível 1,mau
+314,200+,4,1494,sem conta,< 1 ano,29,1,nível 1,bom
+315,negativo,36,2746,<100,> 7 anos,31,1,nível 2,mau
+316,negativo,12,708,<100,"[1,4) anos",38,1,nível 1,bom
+317,[0-200),24,4351,sem conta,"[1,4) anos",48,1,nível 1,bom
+318,sem conta,12,701,<100,"[1,4) anos",32,2,nível 2,bom
+319,negativo,15,3643,<100,> 7 anos,27,2,nível 1,bom
+320,[0-200),30,4249,<100,desempregado,28,2,nível 3,mau
+321,negativo,24,1938,<100,< 1 ano,32,1,nível 2,mau
+322,negativo,24,2910,<100,"[4,7) anos",34,1,nível 3,bom
+323,negativo,18,2659,>1000,"[1,4) anos",28,1,nível 2,bom
+324,sem conta,18,1028,<100,"[1,4) anos",36,2,nível 2,bom
+325,negativo,8,3398,<100,"[4,7) anos",39,2,nível 1,bom
+326,sem conta,12,5801,sem conta,> 7 anos,49,1,nível 2,bom
+327,sem conta,24,1525,>1000,"[4,7) anos",34,1,nível 2,bom
+328,200+,36,4473,<100,> 7 anos,31,1,nível 2,bom
+329,[0-200),6,1068,<100,> 7 anos,28,1,nível 2,bom
+330,negativo,24,6615,<100,desempregado,75,2,nível 3,bom
+331,sem conta,18,1864,[100-500),"[1,4) anos",30,2,nível 2,mau
+332,[0-200),60,7408,[100-500),< 1 ano,24,1,nível 3,mau
+333,sem conta,48,11590,[100-500),"[1,4) anos",24,2,nível 1,mau
+334,negativo,24,4110,<100,> 7 anos,23,2,nível 2,mau
+335,negativo,6,3384,<100,"[1,4) anos",44,1,nível 3,mau
+336,[0-200),13,2101,<100,< 1 ano,23,1,nível 1,bom
+337,negativo,15,1275,sem conta,"[1,4) anos",24,1,nível 2,mau
+338,negativo,24,4169,<100,"[1,4) anos",28,1,nível 2,bom
+339,[0-200),10,1521,<100,"[1,4) anos",31,1,nível 1,bom
+340,[0-200),24,5743,<100,< 1 ano,24,2,nível 2,bom
+341,negativo,21,3599,<100,"[4,7) anos",26,1,nível 1,bom
+342,[0-200),18,3213,[500-1000),< 1 ano,25,1,nível 2,bom
+343,[0-200),18,4439,<100,> 7 anos,33,1,nível 3,bom
+344,200+,10,3949,<100,< 1 ano,37,1,nível 1,bom
+345,sem conta,15,1459,<100,"[1,4) anos",43,1,nível 1,bom
+346,[0-200),13,882,<100,< 1 ano,23,2,nível 2,bom
+347,[0-200),24,3758,[500-1000),desempregado,23,1,desempregado,bom
+348,sem conta,6,1743,[100-500),"[1,4) anos",34,2,nível 1,bom
+349,[0-200),9,1136,>1000,> 7 anos,32,2,nível 2,mau
+350,sem conta,9,1236,<100,< 1 ano,23,1,nível 2,bom
+351,[0-200),9,959,<100,"[1,4) anos",29,1,nível 2,mau
+352,sem conta,18,3229,sem conta,desempregado,38,1,nível 3,bom
+353,negativo,12,6199,<100,"[1,4) anos",28,2,nível 2,mau
+354,sem conta,10,727,[500-1000),> 7 anos,46,1,nível 2,bom
+355,[0-200),24,1246,<100,< 1 ano,23,1,nível 1,mau
+356,sem conta,12,2331,sem conta,> 7 anos,49,1,nível 2,bom
+357,sem conta,36,4463,<100,"[1,4) anos",26,2,nível 3,mau
+358,sem conta,12,776,<100,"[1,4) anos",28,1,nível 2,bom
+359,negativo,30,2406,<100,"[4,7) anos",23,1,nível 2,mau
+360,[0-200),18,1239,sem conta,"[1,4) anos",61,1,nível 2,bom
+361,200+,12,3399,sem conta,> 7 anos,37,1,nível 3,bom
+362,200+,12,2247,<100,"[1,4) anos",36,2,nível 2,bom
+363,sem conta,6,1766,<100,"[1,4) anos",21,1,nível 2,bom
+364,negativo,18,2473,<100,desempregado,25,1,desempregado,mau
+365,sem conta,12,1542,<100,"[4,7) anos",36,1,nível 2,bom
+366,sem conta,18,3850,<100,"[4,7) anos",27,2,nível 2,bom
+367,negativo,18,3650,<100,< 1 ano,22,1,nível 2,bom
+368,negativo,36,3446,<100,> 7 anos,42,1,nível 2,mau
+369,[0-200),18,3001,<100,"[4,7) anos",40,1,nível 2,bom
+370,sem conta,36,3079,sem conta,"[1,4) anos",36,1,nível 2,bom
+371,sem conta,18,6070,<100,> 7 anos,33,2,nível 2,bom
+372,sem conta,10,2146,<100,< 1 ano,23,2,nível 2,bom
+373,sem conta,60,13756,sem conta,> 7 anos,63,1,nível 3,bom
+374,[0-200),60,14782,[100-500),> 7 anos,60,2,nível 3,mau
+375,negativo,48,7685,<100,"[4,7) anos",37,1,nível 2,mau
+376,sem conta,18,2320,<100,desempregado,34,2,nível 2,bom
+377,sem conta,7,846,sem conta,> 7 anos,36,1,nível 2,bom
+378,[0-200),36,14318,<100,> 7 anos,57,1,nível 3,mau
+379,sem conta,6,362,[100-500),"[1,4) anos",52,2,nível 1,bom
+380,negativo,20,2212,sem conta,"[4,7) anos",39,1,nível 2,bom
+381,[0-200),18,12976,<100,desempregado,38,1,nível 3,mau
+382,sem conta,22,1283,sem conta,"[4,7) anos",25,1,nível 2,bom
+383,200+,12,1330,<100,< 1 ano,26,1,nível 2,bom
+384,sem conta,30,4272,[100-500),"[1,4) anos",26,2,nível 1,bom
+385,sem conta,18,2238,<100,"[1,4) anos",25,2,nível 2,bom
+386,sem conta,18,1126,sem conta,< 1 ano,21,1,nível 2,bom
+387,[0-200),18,7374,<100,desempregado,40,2,nível 3,bom
+388,[0-200),15,2326,[500-1000),"[1,4) anos",27,1,nível 2,bom
+389,sem conta,9,1449,<100,"[4,7) anos",27,2,nível 2,bom
+390,sem conta,18,1820,<100,"[1,4) anos",30,1,nível 3,bom
+391,[0-200),12,983,>1000,< 1 ano,19,1,nível 1,bom
+392,negativo,36,3249,<100,"[4,7) anos",39,1,nível 3,bom
+393,negativo,6,1957,<100,"[4,7) anos",31,1,nível 2,bom
+394,sem conta,9,2406,<100,desempregado,31,1,nível 3,bom
+395,[0-200),39,11760,[100-500),"[4,7) anos",32,1,nível 2,bom
+396,negativo,12,2578,<100,desempregado,55,1,nível 3,bom
+397,negativo,36,2348,<100,"[1,4) anos",46,2,nível 2,bom
+398,[0-200),12,1223,<100,> 7 anos,46,2,nível 2,mau
+399,sem conta,24,1516,>1000,"[1,4) anos",43,2,nível 1,bom
+400,sem conta,18,1473,<100,< 1 ano,39,1,nível 2,bom
+401,[0-200),18,1887,sem conta,"[1,4) anos",28,2,nível 2,bom
+402,sem conta,24,8648,<100,< 1 ano,27,2,nível 2,mau
+403,sem conta,14,802,<100,"[1,4) anos",27,2,nível 1,bom
+404,[0-200),18,2899,sem conta,> 7 anos,43,1,nível 2,bom
+405,[0-200),24,2039,<100,< 1 ano,22,1,nível 2,mau
+406,sem conta,24,2197,sem conta,"[4,7) anos",43,2,nível 2,bom
+407,negativo,15,1053,<100,< 1 ano,27,1,nível 2,bom
+408,sem conta,24,3235,[500-1000),> 7 anos,26,1,nível 3,bom
+409,200+,12,939,[500-1000),"[4,7) anos",28,3,nível 2,mau
+410,[0-200),24,1967,<100,> 7 anos,20,1,nível 2,bom
+411,sem conta,33,7253,<100,"[4,7) anos",35,2,nível 3,bom
+412,sem conta,12,2292,<100,desempregado,42,2,nível 3,mau
+413,sem conta,10,1597,[500-1000),"[1,4) anos",40,1,nível 1,bom
+414,negativo,24,1381,sem conta,"[1,4) anos",35,1,nível 2,mau
+415,sem conta,36,5842,<100,> 7 anos,35,2,nível 2,bom
+416,negativo,12,2579,<100,< 1 ano,33,1,nível 1,mau
+417,negativo,18,8471,sem conta,"[1,4) anos",23,2,nível 2,bom
+418,sem conta,21,2782,[500-1000),"[4,7) anos",31,1,nível 3,bom
+419,[0-200),18,1042,sem conta,"[1,4) anos",33,1,nível 2,mau
+420,sem conta,15,3186,>1000,"[4,7) anos",20,1,nível 2,bom
+421,[0-200),12,2028,sem conta,"[1,4) anos",30,1,nível 2,bom
+422,[0-200),12,958,<100,"[4,7) anos",47,2,nível 1,bom
+423,sem conta,21,1591,[100-500),"[4,7) anos",34,2,nível 3,bom
+424,[0-200),12,2762,sem conta,> 7 anos,25,1,nível 2,mau
+425,[0-200),18,2779,<100,"[1,4) anos",21,1,nível 2,bom
+426,sem conta,28,2743,<100,> 7 anos,29,2,nível 2,bom
+427,sem conta,18,1149,>1000,"[1,4) anos",46,2,nível 2,bom
+428,sem conta,9,1313,<100,> 7 anos,20,1,nível 2,bom
+429,negativo,18,1190,<100,desempregado,55,3,desempregado,mau
+430,sem conta,5,3448,<100,"[4,7) anos",74,1,nível 1,bom
+431,[0-200),24,11328,<100,"[1,4) anos",29,2,nível 3,mau
+432,negativo,6,1872,<100,desempregado,36,3,nível 3,bom
+433,sem conta,24,2058,<100,"[1,4) anos",33,2,nível 2,bom
+434,negativo,9,2136,<100,"[1,4) anos",25,1,nível 2,bom
+435,[0-200),12,1484,sem conta,"[1,4) anos",25,1,nível 2,mau
+436,sem conta,6,660,[500-1000),"[4,7) anos",23,1,nível 1,bom
+437,sem conta,24,1287,>1000,> 7 anos,37,2,nível 2,bom
+438,negativo,42,3394,<100,desempregado,65,2,desempregado,bom
+439,200+,12,609,<100,< 1 ano,26,1,desempregado,mau
+440,sem conta,12,1884,<100,> 7 anos,39,1,nível 3,bom
+441,negativo,12,1620,<100,"[1,4) anos",30,1,nível 2,bom
+442,[0-200),20,2629,<100,"[1,4) anos",29,2,nível 2,bom
+443,sem conta,12,719,<100,> 7 anos,41,1,nível 1,mau
+444,[0-200),48,5096,<100,"[1,4) anos",30,1,nível 3,mau
+445,sem conta,9,1244,sem conta,> 7 anos,41,2,nível 1,bom
+446,negativo,36,1842,<100,< 1 ano,34,1,nível 2,mau
+447,[0-200),7,2576,<100,"[1,4) anos",35,1,nível 2,bom
+448,200+,12,1424,sem conta,> 7 anos,55,1,nível 3,bom
+449,[0-200),15,1512,>1000,"[1,4) anos",61,2,nível 2,mau
+450,sem conta,36,11054,sem conta,"[1,4) anos",30,1,nível 3,bom
+451,sem conta,6,518,<100,"[1,4) anos",29,1,nível 2,bom
+452,sem conta,12,2759,<100,> 7 anos,34,2,nível 2,bom
+453,sem conta,24,2670,<100,> 7 anos,35,1,nível 3,bom
+454,negativo,24,4817,<100,"[4,7) anos",31,1,nível 2,mau
+455,sem conta,24,2679,<100,< 1 ano,29,1,nível 3,bom
+456,negativo,11,3905,<100,"[1,4) anos",36,2,nível 2,bom
+457,negativo,12,3386,<100,> 7 anos,35,1,nível 2,mau
+458,negativo,6,343,<100,< 1 ano,27,1,nível 2,bom
+459,sem conta,18,4594,<100,< 1 ano,32,1,nível 2,bom
+460,negativo,36,3620,<100,"[1,4) anos",37,1,nível 2,bom
+461,negativo,15,1721,<100,< 1 ano,36,1,nível 2,bom
+462,[0-200),12,3017,<100,< 1 ano,34,1,nível 3,bom
+463,[0-200),12,754,sem conta,> 7 anos,38,2,nível 2,bom
+464,sem conta,18,1950,<100,"[4,7) anos",34,2,nível 2,bom
+465,negativo,24,2924,<100,"[1,4) anos",63,1,nível 2,bom
+466,negativo,24,1659,<100,< 1 ano,29,1,nível 1,mau
+467,sem conta,48,7238,sem conta,> 7 anos,32,2,nível 2,bom
+468,sem conta,33,2764,<100,"[1,4) anos",26,2,nível 2,bom
+469,sem conta,24,4679,<100,"[4,7) anos",35,2,nível 1,bom
+470,[0-200),24,3092,[100-500),< 1 ano,22,1,nível 2,mau
+471,negativo,6,448,<100,< 1 ano,23,1,nível 2,mau
+472,negativo,9,654,<100,"[1,4) anos",28,1,nível 1,mau
+473,sem conta,6,1238,sem conta,desempregado,36,1,nível 3,bom
+474,[0-200),18,1245,<100,"[1,4) anos",33,1,nível 2,mau
+475,negativo,18,3114,<100,< 1 ano,26,1,nível 2,mau
+476,sem conta,39,2569,[500-1000),"[1,4) anos",24,1,nível 2,bom
+477,200+,24,5152,<100,"[4,7) anos",25,1,nível 2,bom
+478,[0-200),12,1037,[100-500),"[4,7) anos",39,1,nível 1,bom
+479,negativo,15,1478,<100,> 7 anos,44,2,nível 2,bom
+480,[0-200),12,3573,<100,"[1,4) anos",23,1,nível 1,bom
+481,[0-200),24,1201,<100,< 1 ano,26,1,nível 2,bom
+482,negativo,30,3622,>1000,> 7 anos,57,2,nível 2,bom
+483,sem conta,15,960,>1000,"[4,7) anos",30,2,nível 2,bom
+484,sem conta,12,1163,[500-1000),"[1,4) anos",44,1,nível 2,bom
+485,[0-200),6,1209,<100,desempregado,47,1,nível 3,mau
+486,sem conta,12,3077,<100,"[1,4) anos",52,1,nível 2,bom
+487,sem conta,24,3757,<100,> 7 anos,62,1,nível 2,bom
+488,sem conta,10,1418,[100-500),"[1,4) anos",35,1,nível 1,bom
+489,sem conta,6,3518,<100,"[1,4) anos",26,1,nível 2,bom
+490,sem conta,12,1934,<100,> 7 anos,26,2,nível 2,bom
+491,[0-200),27,8318,<100,> 7 anos,42,2,nível 3,mau
+492,sem conta,6,1237,[100-500),"[1,4) anos",27,2,nível 2,bom
+493,[0-200),6,368,sem conta,> 7 anos,38,1,nível 2,bom
+494,negativo,12,2122,<100,"[1,4) anos",39,2,nível 1,bom
+495,negativo,24,2996,sem conta,"[1,4) anos",20,1,nível 2,mau
+496,[0-200),36,9034,[100-500),< 1 ano,29,1,nível 3,mau
+497,sem conta,24,1585,<100,"[4,7) anos",40,2,nível 2,bom
+498,[0-200),18,1301,<100,> 7 anos,32,1,nível 1,bom
+499,200+,6,1323,[100-500),> 7 anos,28,2,nível 2,bom
+500,negativo,24,3123,<100,< 1 ano,27,1,nível 2,mau
+501,negativo,36,5493,<100,> 7 anos,42,1,nível 2,bom
+502,200+,9,1126,[100-500),> 7 anos,49,1,nível 2,bom
+503,[0-200),24,1216,[100-500),< 1 ano,38,2,nível 2,mau
+504,negativo,24,1207,<100,< 1 ano,24,1,nível 2,mau
+505,sem conta,10,1309,sem conta,"[1,4) anos",27,1,nível 1,mau
+506,200+,15,2360,[500-1000),"[1,4) anos",36,1,nível 2,bom
+507,[0-200),15,6850,[100-500),desempregado,34,1,nível 3,mau
+508,sem conta,24,1413,<100,"[1,4) anos",28,1,nível 2,bom
+509,sem conta,39,8588,[100-500),> 7 anos,45,1,nível 3,bom
+510,negativo,12,759,<100,"[4,7) anos",26,1,nível 2,mau
+511,sem conta,36,4686,<100,"[1,4) anos",32,1,nível 3,bom
+512,200+,15,2687,<100,"[4,7) anos",26,1,nível 2,bom
+513,[0-200),12,585,<100,"[1,4) anos",20,2,nível 2,bom
+514,sem conta,24,2255,sem conta,< 1 ano,54,1,nível 2,bom
+515,negativo,6,609,<100,"[4,7) anos",37,2,nível 2,bom
+516,negativo,6,1361,<100,< 1 ano,40,1,nível 1,bom
+517,sem conta,36,7127,<100,< 1 ano,23,2,nível 2,mau
+518,negativo,6,1203,[100-500),> 7 anos,43,1,nível 2,bom
+519,sem conta,6,700,sem conta,> 7 anos,36,2,nível 2,bom
+520,sem conta,24,5507,<100,> 7 anos,44,2,nível 2,bom
+521,negativo,18,3190,<100,"[1,4) anos",24,1,nível 2,mau
+522,negativo,48,7119,<100,"[1,4) anos",53,2,nível 2,mau
+523,sem conta,24,3488,[100-500),"[4,7) anos",23,1,nível 2,bom
+524,[0-200),18,1113,<100,"[1,4) anos",26,1,nível 1,bom
+525,[0-200),26,7966,<100,< 1 ano,30,2,nível 2,bom
+526,sem conta,15,1532,[100-500),"[1,4) anos",31,1,nível 2,bom
+527,sem conta,4,1503,<100,"[4,7) anos",42,2,nível 1,bom
+528,negativo,36,2302,<100,"[1,4) anos",31,1,nível 2,mau
+529,negativo,6,662,<100,< 1 ano,41,1,nível 1,bom
+530,[0-200),36,2273,<100,"[4,7) anos",32,2,nível 2,bom
+531,[0-200),15,2631,[100-500),"[1,4) anos",28,2,nível 2,mau
+532,sem conta,12,1503,<100,"[1,4) anos",41,1,nível 2,bom
+533,sem conta,24,1311,[100-500),"[4,7) anos",26,1,nível 2,bom
+534,sem conta,24,3105,sem conta,< 1 ano,25,2,nível 2,bom
+535,200+,21,2319,<100,< 1 ano,33,1,nível 2,mau
+536,negativo,6,1374,sem conta,desempregado,75,1,nível 3,bom
+537,[0-200),18,3612,<100,> 7 anos,37,1,nível 2,bom
+538,negativo,48,7763,<100,> 7 anos,42,1,nível 3,mau
+539,200+,18,3049,<100,< 1 ano,45,1,nível 1,bom
+540,[0-200),12,1534,<100,< 1 ano,23,1,nível 2,mau
+541,sem conta,24,2032,<100,> 7 anos,60,2,nível 2,bom
+542,negativo,30,6350,sem conta,> 7 anos,31,1,nível 2,mau
+543,200+,18,2864,<100,"[1,4) anos",34,1,nível 1,mau
+544,sem conta,12,1255,<100,> 7 anos,61,2,nível 1,bom
+545,negativo,24,1333,<100,desempregado,43,2,nível 2,mau
+546,sem conta,24,2022,<100,"[1,4) anos",37,1,nível 2,bom
+547,sem conta,24,1552,<100,"[4,7) anos",32,1,nível 2,bom
+548,negativo,12,626,<100,"[1,4) anos",24,1,nível 1,mau
+549,sem conta,48,8858,sem conta,"[4,7) anos",35,2,nível 2,bom
+550,sem conta,12,996,sem conta,"[4,7) anos",23,2,nível 2,bom
+551,sem conta,6,1750,[500-1000),> 7 anos,45,1,nível 1,bom
+552,negativo,48,6999,<100,"[4,7) anos",34,2,nível 2,mau
+553,[0-200),12,1995,[100-500),< 1 ano,27,1,nível 2,bom
+554,[0-200),9,1199,<100,"[4,7) anos",67,2,nível 3,bom
+555,[0-200),12,1331,<100,< 1 ano,22,1,nível 2,mau
+556,[0-200),18,2278,[100-500),< 1 ano,28,2,nível 2,mau
+557,sem conta,21,5003,sem conta,"[1,4) anos",29,2,nível 2,mau
+558,negativo,24,3552,<100,"[4,7) anos",27,1,nível 2,mau
+559,[0-200),18,1928,<100,< 1 ano,31,2,nível 1,mau
+560,negativo,24,2964,sem conta,> 7 anos,49,1,nível 2,bom
+561,negativo,24,1546,<100,"[4,7) anos",24,1,nível 1,mau
+562,200+,6,683,<100,< 1 ano,29,1,nível 2,bom
+563,[0-200),36,12389,sem conta,"[1,4) anos",37,1,nível 2,mau
+564,[0-200),24,4712,sem conta,"[1,4) anos",37,2,nível 3,bom
+565,[0-200),24,1553,[100-500),"[4,7) anos",23,2,nível 2,bom
+566,negativo,12,1372,<100,"[4,7) anos",36,1,nível 2,mau
+567,sem conta,24,2578,>1000,> 7 anos,34,1,nível 2,bom
+568,[0-200),48,3979,sem conta,"[4,7) anos",41,2,nível 2,bom
+569,negativo,48,6758,<100,"[1,4) anos",31,1,nível 2,mau
+570,negativo,24,3234,<100,< 1 ano,23,1,nível 1,mau
+571,sem conta,30,5954,<100,"[4,7) anos",38,1,nível 2,bom
+572,sem conta,24,5433,sem conta,desempregado,26,1,nível 3,bom
+573,negativo,15,806,<100,"[1,4) anos",22,1,nível 1,bom
+574,[0-200),9,1082,<100,> 7 anos,27,2,nível 1,bom
+575,sem conta,15,2788,<100,"[4,7) anos",24,2,nível 2,bom
+576,[0-200),12,2930,<100,"[4,7) anos",27,1,nível 2,bom
+577,sem conta,24,1927,sem conta,"[1,4) anos",33,2,nível 2,bom
+578,[0-200),36,2820,<100,< 1 ano,27,2,nível 2,mau
+579,sem conta,24,937,<100,< 1 ano,27,2,nível 1,bom
+580,[0-200),18,1056,<100,> 7 anos,30,2,nível 2,mau
+581,[0-200),12,3124,<100,< 1 ano,49,2,nível 1,bom
+582,sem conta,9,1388,<100,"[1,4) anos",26,1,nível 2,bom
+583,[0-200),36,2384,<100,< 1 ano,33,1,nível 1,mau
+584,sem conta,12,2133,sem conta,> 7 anos,52,1,nível 3,bom
+585,negativo,18,2039,<100,"[1,4) anos",20,1,nível 2,mau
+586,negativo,9,2799,<100,"[1,4) anos",36,2,nível 2,bom
+587,negativo,12,1289,<100,"[1,4) anos",21,1,nível 1,bom
+588,negativo,18,1217,<100,"[1,4) anos",47,1,nível 1,mau
+589,negativo,12,2246,<100,> 7 anos,60,2,nível 2,mau
+590,negativo,12,385,<100,"[4,7) anos",58,4,nível 1,bom
+591,[0-200),24,1965,sem conta,"[1,4) anos",42,2,nível 2,bom
+592,sem conta,21,1572,>1000,> 7 anos,36,1,nível 1,bom
+593,[0-200),24,2718,<100,"[1,4) anos",20,1,nível 1,mau
+594,negativo,24,1358,sem conta,> 7 anos,40,1,nível 3,mau
+595,[0-200),6,931,[100-500),< 1 ano,32,1,nível 1,mau
+596,negativo,24,1442,<100,"[4,7) anos",23,2,nível 2,mau
+597,[0-200),24,4241,<100,"[1,4) anos",36,3,nível 1,mau
+598,sem conta,18,2775,<100,"[4,7) anos",31,2,nível 2,mau
+599,sem conta,24,3863,<100,"[1,4) anos",32,1,nível 2,bom
+600,[0-200),7,2329,<100,< 1 ano,45,1,nível 2,bom
+601,[0-200),9,918,<100,"[1,4) anos",30,1,nível 2,mau
+602,[0-200),24,1837,<100,"[4,7) anos",34,1,nível 1,mau
+603,sem conta,36,3349,<100,"[1,4) anos",28,1,nível 3,mau
+604,200+,10,1275,<100,< 1 ano,23,1,nível 2,bom
+605,negativo,24,2828,[500-1000),"[1,4) anos",22,1,nível 2,bom
+606,sem conta,24,4526,<100,"[1,4) anos",74,1,nível 3,bom
+607,[0-200),36,2671,[100-500),"[1,4) anos",50,1,nível 2,mau
+608,sem conta,18,2051,<100,< 1 ano,33,1,nível 2,bom
+609,sem conta,15,1300,sem conta,> 7 anos,45,1,nível 2,bom
+610,negativo,12,741,[100-500),desempregado,22,1,nível 2,mau
+611,200+,10,1240,[100-500),> 7 anos,48,1,nível 1,mau
+612,negativo,21,3357,>1000,< 1 ano,29,1,nível 2,bom
+613,negativo,24,3632,<100,"[1,4) anos",22,1,nível 2,bom
+614,sem conta,18,1808,<100,"[4,7) anos",22,1,nível 2,mau
+615,[0-200),48,12204,sem conta,"[1,4) anos",48,1,nível 3,bom
+616,[0-200),60,9157,sem conta,"[1,4) anos",27,1,nível 3,bom
+617,negativo,6,3676,<100,"[1,4) anos",37,3,nível 2,bom
+618,[0-200),30,3441,[100-500),"[1,4) anos",21,1,nível 2,mau
+619,sem conta,12,640,<100,"[1,4) anos",49,1,nível 1,bom
+620,[0-200),21,3652,<100,"[4,7) anos",27,2,nível 2,bom
+621,sem conta,18,1530,<100,"[1,4) anos",32,2,nível 2,mau
+622,sem conta,48,3914,sem conta,"[1,4) anos",38,1,nível 2,mau
+623,negativo,12,1858,<100,< 1 ano,22,1,nível 2,bom
+624,negativo,18,2600,<100,"[1,4) anos",65,2,nível 2,mau
+625,sem conta,15,1979,sem conta,> 7 anos,35,1,nível 2,bom
+626,200+,6,2116,<100,"[1,4) anos",41,1,nível 2,bom
+627,[0-200),9,1437,[100-500),"[4,7) anos",29,1,nível 2,mau
+628,sem conta,42,4042,[500-1000),"[1,4) anos",36,2,nível 2,bom
+629,sem conta,9,3832,sem conta,> 7 anos,64,1,nível 1,bom
+630,negativo,24,3660,<100,"[1,4) anos",28,1,nível 2,bom
+631,negativo,18,1553,<100,"[1,4) anos",44,1,nível 2,mau
+632,[0-200),15,1444,sem conta,< 1 ano,23,1,nível 2,bom
+633,sem conta,9,1980,<100,< 1 ano,19,2,nível 2,mau
+634,[0-200),24,1355,<100,< 1 ano,25,1,nível 1,mau
+635,sem conta,12,1393,<100,> 7 anos,47,3,nível 2,bom
+636,sem conta,24,1376,[500-1000),"[4,7) anos",28,1,nível 2,bom
+637,sem conta,60,15653,<100,"[4,7) anos",21,2,nível 2,bom
+638,sem conta,12,1493,<100,< 1 ano,34,1,nível 2,bom
+639,negativo,42,4370,<100,"[4,7) anos",26,2,nível 2,mau
+640,negativo,18,750,<100,desempregado,27,1,desempregado,mau
+641,[0-200),15,1308,<100,> 7 anos,38,2,nível 1,bom
+642,sem conta,15,4623,[100-500),"[1,4) anos",40,1,nível 3,mau
+643,sem conta,24,1851,<100,"[4,7) anos",33,2,nível 2,bom
+644,negativo,18,1880,<100,"[4,7) anos",32,2,nível 3,bom
+645,sem conta,36,7980,sem conta,< 1 ano,27,2,nível 2,mau
+646,negativo,30,4583,<100,"[1,4) anos",32,2,nível 2,bom
+647,sem conta,12,1386,[500-1000),"[1,4) anos",26,1,nível 2,mau
+648,200+,24,947,<100,"[4,7) anos",38,1,nível 2,mau
+649,negativo,12,684,<100,"[1,4) anos",40,1,nível 1,mau
+650,negativo,48,7476,<100,"[4,7) anos",50,1,nível 3,bom
+651,[0-200),12,1922,<100,"[1,4) anos",37,1,nível 1,mau
+652,negativo,24,2303,<100,> 7 anos,45,1,nível 2,mau
+653,[0-200),36,8086,[100-500),> 7 anos,42,4,nível 3,mau
+654,sem conta,24,2346,<100,"[4,7) anos",35,2,nível 2,bom
+655,negativo,14,3973,<100,desempregado,22,1,nível 2,bom
+656,[0-200),12,888,<100,> 7 anos,41,1,nível 1,mau
+657,sem conta,48,10222,sem conta,"[4,7) anos",37,1,nível 2,bom
+658,[0-200),30,4221,<100,"[1,4) anos",28,2,nível 2,bom
+659,[0-200),18,6361,<100,> 7 anos,41,1,nível 2,bom
+660,200+,12,1297,<100,"[1,4) anos",23,1,nível 2,bom
+661,negativo,12,900,sem conta,"[1,4) anos",23,1,nível 2,mau
+662,sem conta,21,2241,<100,> 7 anos,50,2,nível 2,bom
+663,[0-200),6,1050,<100,desempregado,35,2,nível 3,bom
+664,200+,6,1047,<100,"[1,4) anos",50,1,nível 1,bom
+665,sem conta,24,6314,<100,desempregado,27,2,nível 3,bom
+666,[0-200),30,3496,>1000,"[1,4) anos",34,1,nível 2,bom
+667,sem conta,48,3609,<100,"[1,4) anos",27,1,nível 2,bom
+668,negativo,12,4843,<100,> 7 anos,43,2,nível 2,mau
+669,200+,30,3017,<100,> 7 anos,47,1,nível 2,bom
+670,sem conta,24,4139,[100-500),"[1,4) anos",27,2,nível 1,bom
+671,sem conta,36,5742,[100-500),"[4,7) anos",31,2,nível 2,bom
+672,sem conta,60,10366,<100,> 7 anos,42,1,nível 3,bom
+673,sem conta,6,2080,[500-1000),"[1,4) anos",24,1,nível 2,bom
+674,sem conta,21,2580,[500-1000),< 1 ano,41,1,nível 1,mau
+675,sem conta,30,4530,<100,"[4,7) anos",26,1,nível 3,bom
+676,sem conta,24,5150,<100,> 7 anos,33,1,nível 2,bom
+677,[0-200),72,5595,[100-500),"[1,4) anos",24,1,nível 2,mau
+678,negativo,24,2384,<100,> 7 anos,64,1,nível 1,bom
+679,sem conta,18,1453,<100,< 1 ano,26,1,nível 2,bom
+680,sem conta,6,1538,<100,< 1 ano,56,1,nível 2,bom
+681,sem conta,12,2279,sem conta,"[1,4) anos",37,1,nível 2,bom
+682,sem conta,15,1478,<100,"[1,4) anos",33,2,nível 2,bom
+683,sem conta,24,5103,<100,< 1 ano,47,3,nível 2,bom
+684,[0-200),36,9857,[100-500),"[4,7) anos",31,2,nível 1,bom
+685,sem conta,60,6527,sem conta,"[1,4) anos",34,1,nível 2,bom
+686,200+,10,1347,sem conta,"[4,7) anos",27,2,nível 2,bom
+687,[0-200),36,2862,[100-500),> 7 anos,30,1,nível 2,bom
+688,sem conta,9,2753,[100-500),> 7 anos,35,1,nível 2,bom
+689,negativo,12,3651,>1000,"[1,4) anos",31,1,nível 2,bom
+690,negativo,15,975,<100,"[1,4) anos",25,2,nível 2,bom
+691,[0-200),15,2631,[100-500),"[1,4) anos",25,1,nível 1,bom
+692,[0-200),24,2896,[100-500),< 1 ano,29,1,nível 2,bom
+693,negativo,6,4716,sem conta,< 1 ano,44,2,nível 1,bom
+694,sem conta,24,2284,<100,"[4,7) anos",28,1,nível 2,bom
+695,sem conta,6,1236,[500-1000),"[1,4) anos",50,1,nível 2,bom
+696,[0-200),12,1103,<100,"[4,7) anos",29,2,nível 2,bom
+697,sem conta,12,926,<100,desempregado,38,1,desempregado,bom
+698,sem conta,18,1800,<100,"[1,4) anos",24,2,nível 2,bom
+699,200+,15,1905,<100,> 7 anos,40,1,nível 3,bom
+700,sem conta,12,1123,[500-1000),"[1,4) anos",29,1,nível 1,mau
+701,negativo,48,6331,<100,> 7 anos,46,2,nível 2,mau
+702,200+,24,1377,[100-500),> 7 anos,47,1,nível 2,bom
+703,[0-200),30,2503,[100-500),> 7 anos,41,2,nível 2,bom
+704,[0-200),27,2528,<100,< 1 ano,32,1,nível 2,bom
+705,sem conta,15,5324,[500-1000),> 7 anos,35,1,nível 2,bom
+706,[0-200),48,6560,[100-500),"[4,7) anos",24,1,nível 2,mau
+707,[0-200),12,2969,<100,< 1 ano,25,2,nível 2,mau
+708,[0-200),9,1206,<100,> 7 anos,25,1,nível 2,bom
+709,[0-200),9,2118,<100,"[1,4) anos",37,1,nível 1,bom
+710,sem conta,18,629,[500-1000),> 7 anos,32,2,nível 3,bom
+711,negativo,6,1198,<100,> 7 anos,35,1,nível 2,mau
+712,sem conta,21,2476,sem conta,> 7 anos,46,1,nível 3,bom
+713,negativo,9,1138,<100,"[1,4) anos",25,2,nível 1,bom
+714,[0-200),60,14027,<100,"[4,7) anos",27,1,nível 3,mau
+715,sem conta,30,7596,sem conta,> 7 anos,63,2,nível 2,bom
+716,sem conta,30,3077,sem conta,> 7 anos,40,2,nível 2,bom
+717,sem conta,18,1505,<100,"[1,4) anos",32,1,nível 3,bom
+718,200+,24,3148,sem conta,"[1,4) anos",31,2,nível 2,bom
+719,[0-200),20,6148,[100-500),> 7 anos,31,2,nível 2,bom
+720,200+,9,1337,<100,< 1 ano,34,2,nível 3,mau
+721,[0-200),6,433,>1000,< 1 ano,24,1,nível 2,mau
+722,negativo,12,1228,<100,"[1,4) anos",24,1,nível 1,mau
+723,[0-200),9,790,[500-1000),"[1,4) anos",66,1,nível 1,bom
+724,sem conta,27,2570,<100,"[1,4) anos",21,1,nível 2,mau
+725,sem conta,6,250,>1000,"[1,4) anos",41,2,nível 1,bom
+726,sem conta,15,1316,[500-1000),"[1,4) anos",47,2,nível 1,bom
+727,negativo,18,1882,<100,"[1,4) anos",25,2,nível 2,mau
+728,[0-200),48,6416,<100,> 7 anos,59,1,nível 2,mau
+729,200+,24,1275,>1000,"[1,4) anos",36,2,nível 2,bom
+730,[0-200),24,6403,<100,< 1 ano,33,1,nível 2,bom
+731,negativo,24,1987,<100,"[1,4) anos",21,1,nível 1,mau
+732,[0-200),8,760,<100,"[4,7) anos",44,1,nível 1,bom
+733,sem conta,24,2603,>1000,"[1,4) anos",28,1,nível 2,bom
+734,sem conta,4,3380,<100,"[4,7) anos",37,1,nível 2,bom
+735,[0-200),36,3990,sem conta,< 1 ano,29,1,desempregado,bom
+736,[0-200),24,11560,<100,"[1,4) anos",23,2,nível 3,mau
+737,negativo,18,4380,[100-500),"[1,4) anos",35,1,nível 1,bom
+738,sem conta,6,6761,<100,"[4,7) anos",45,2,nível 3,bom
+739,[0-200),30,4280,[100-500),"[1,4) anos",26,2,nível 1,mau
+740,negativo,24,2325,[100-500),"[4,7) anos",32,1,nível 2,bom
+741,[0-200),10,1048,<100,"[1,4) anos",23,1,nível 1,bom
+742,sem conta,21,3160,sem conta,> 7 anos,41,1,nível 2,bom
+743,negativo,24,2483,[500-1000),"[1,4) anos",22,1,nível 2,bom
+744,negativo,39,14179,sem conta,"[4,7) anos",30,2,nível 3,bom
+745,negativo,13,1797,<100,< 1 ano,28,2,nível 1,bom
+746,negativo,15,2511,<100,desempregado,23,1,nível 2,bom
+747,negativo,12,1274,<100,< 1 ano,37,1,nível 1,mau
+748,sem conta,21,5248,sem conta,"[1,4) anos",26,1,nível 2,bom
+749,sem conta,15,3029,<100,"[4,7) anos",33,1,nível 2,bom
+750,negativo,6,428,<100,> 7 anos,49,1,nível 2,bom
+751,negativo,18,976,<100,< 1 ano,23,1,nível 1,mau
+752,[0-200),12,841,[100-500),"[4,7) anos",23,1,nível 1,bom
+753,sem conta,30,5771,<100,"[4,7) anos",25,2,nível 2,bom
+754,sem conta,12,1555,>1000,> 7 anos,55,2,nível 2,mau
+755,negativo,24,1285,sem conta,"[4,7) anos",32,1,nível 2,mau
+756,200+,6,1299,<100,"[1,4) anos",74,3,desempregado,bom
+757,200+,15,1271,sem conta,"[1,4) anos",39,2,nível 2,mau
+758,sem conta,24,1393,<100,"[1,4) anos",31,1,nível 2,bom
+759,negativo,12,691,<100,> 7 anos,35,2,nível 2,mau
+760,sem conta,15,5045,sem conta,> 7 anos,59,1,nível 2,bom
+761,negativo,18,2124,<100,"[1,4) anos",24,2,nível 2,mau
+762,negativo,12,2214,<100,"[1,4) anos",24,1,nível 1,bom
+763,sem conta,21,12680,sem conta,> 7 anos,30,1,nível 3,mau
+764,sem conta,24,2463,[100-500),"[4,7) anos",27,2,nível 2,bom
+765,[0-200),12,1155,<100,> 7 anos,40,2,nível 1,bom
+766,negativo,30,3108,<100,< 1 ano,31,1,nível 1,mau
+767,sem conta,10,2901,sem conta,< 1 ano,31,1,nível 2,bom
+768,[0-200),12,3617,<100,> 7 anos,28,3,nível 2,bom
+769,sem conta,12,1655,<100,> 7 anos,63,2,nível 1,bom
+770,negativo,24,2812,sem conta,> 7 anos,26,1,nível 2,bom
+771,negativo,36,8065,<100,"[1,4) anos",25,2,nível 3,mau
+772,sem conta,21,3275,<100,> 7 anos,36,1,nível 3,bom
+773,sem conta,24,2223,[100-500),> 7 anos,52,2,nível 2,bom
+774,200+,12,1480,[500-1000),desempregado,66,3,desempregado,bom
+775,negativo,24,1371,sem conta,"[1,4) anos",25,1,nível 2,mau
+776,sem conta,36,3535,<100,"[4,7) anos",37,2,nível 2,bom
+777,negativo,18,3509,<100,"[4,7) anos",25,1,nível 2,bom
+778,sem conta,36,5711,>1000,> 7 anos,38,2,nível 3,bom
+779,[0-200),18,3872,<100,desempregado,67,1,nível 2,bom
+780,[0-200),39,4933,<100,"[4,7) anos",25,2,nível 2,mau
+781,sem conta,24,1940,>1000,> 7 anos,60,1,nível 2,bom
+782,[0-200),12,1410,<100,"[1,4) anos",31,1,nível 1,bom
+783,[0-200),12,836,[100-500),< 1 ano,23,1,nível 1,mau
+784,[0-200),20,6468,sem conta,desempregado,60,1,nível 3,bom
+785,[0-200),18,1941,>1000,"[1,4) anos",35,1,nível 1,bom
+786,sem conta,22,2675,[500-1000),> 7 anos,40,1,nível 2,bom
+787,sem conta,48,2751,sem conta,> 7 anos,38,2,nível 2,bom
+788,[0-200),48,6224,<100,> 7 anos,50,1,nível 2,mau
+789,negativo,40,5998,<100,"[1,4) anos",27,1,nível 2,mau
+790,[0-200),21,1188,<100,> 7 anos,39,1,nível 2,mau
+791,sem conta,24,6313,sem conta,> 7 anos,41,1,nível 3,bom
+792,sem conta,6,1221,sem conta,"[1,4) anos",27,2,nível 2,bom
+793,200+,24,2892,<100,> 7 anos,51,1,nível 2,bom
+794,sem conta,24,3062,[500-1000),> 7 anos,32,1,nível 2,bom
+795,sem conta,9,2301,[100-500),< 1 ano,22,1,nível 2,bom
+796,negativo,18,7511,sem conta,> 7 anos,51,1,nível 2,mau
+797,sem conta,12,1258,<100,< 1 ano,22,2,nível 1,bom
+798,sem conta,24,717,sem conta,> 7 anos,54,2,nível 2,bom
+799,[0-200),9,1549,sem conta,< 1 ano,35,1,desempregado,bom
+800,sem conta,24,1597,<100,> 7 anos,54,2,nível 2,bom
+801,[0-200),18,1795,<100,> 7 anos,48,2,nível 1,bom
+802,negativo,20,4272,<100,> 7 anos,24,2,nível 2,bom
+803,sem conta,12,976,sem conta,> 7 anos,35,2,nível 2,bom
+804,[0-200),12,7472,sem conta,desempregado,24,1,desempregado,bom
+805,negativo,36,9271,<100,"[4,7) anos",24,1,nível 2,mau
+806,[0-200),6,590,<100,< 1 ano,26,1,nível 1,bom
+807,sem conta,12,930,sem conta,> 7 anos,65,4,nível 2,bom
+808,[0-200),42,9283,<100,desempregado,55,1,nível 3,bom
+809,[0-200),15,1778,<100,< 1 ano,26,2,desempregado,mau
+810,[0-200),8,907,<100,< 1 ano,26,1,nível 2,bom
+811,[0-200),6,484,<100,"[4,7) anos",28,1,nível 1,bom
+812,negativo,36,9629,<100,"[4,7) anos",24,2,nível 2,mau
+813,negativo,48,3051,<100,"[1,4) anos",54,1,nível 2,mau
+814,negativo,48,3931,<100,"[4,7) anos",46,1,nível 2,mau
+815,[0-200),36,7432,<100,"[1,4) anos",54,1,nível 2,bom
+816,sem conta,6,1338,[500-1000),"[1,4) anos",62,1,nível 2,bom
+817,sem conta,6,1554,<100,"[4,7) anos",24,2,nível 2,bom
+818,negativo,36,15857,<100,desempregado,43,1,nível 3,bom
+819,negativo,18,1345,<100,"[1,4) anos",26,1,nível 2,mau
+820,sem conta,12,1101,<100,"[1,4) anos",27,2,nível 2,bom
+821,200+,12,3016,<100,"[1,4) anos",24,1,nível 2,bom
+822,negativo,36,2712,<100,> 7 anos,41,1,nível 2,mau
+823,negativo,8,731,<100,> 7 anos,47,2,nível 1,bom
+824,sem conta,18,3780,<100,< 1 ano,35,2,nível 3,bom
+825,negativo,21,1602,<100,> 7 anos,30,2,nível 2,bom
+826,negativo,18,3966,<100,> 7 anos,33,3,nível 2,mau
+827,sem conta,18,4165,<100,"[1,4) anos",36,2,nível 2,mau
+828,negativo,36,8335,sem conta,> 7 anos,47,1,nível 2,mau
+829,[0-200),48,6681,sem conta,"[1,4) anos",38,1,nível 2,bom
+830,sem conta,24,2375,[500-1000),"[1,4) anos",44,2,nível 2,bom
+831,negativo,18,1216,<100,< 1 ano,23,1,nível 2,mau
+832,negativo,45,11816,<100,> 7 anos,29,2,nível 2,mau
+833,[0-200),24,5084,sem conta,> 7 anos,42,1,nível 2,bom
+834,200+,15,2327,<100,< 1 ano,25,1,nível 1,mau
+835,negativo,12,1082,<100,"[1,4) anos",48,2,nível 2,mau
+836,sem conta,12,886,sem conta,"[1,4) anos",21,1,nível 2,bom
+837,sem conta,4,601,<100,< 1 ano,23,1,nível 1,bom
+838,negativo,24,2957,<100,> 7 anos,63,2,nível 2,bom
+839,sem conta,24,2611,<100,> 7 anos,46,2,nível 2,bom
+840,negativo,36,5179,<100,"[4,7) anos",29,1,nível 2,mau
+841,sem conta,21,2993,<100,"[1,4) anos",28,2,nível 1,bom
+842,sem conta,18,1943,<100,< 1 ano,23,1,nível 2,mau
+843,sem conta,24,1559,<100,"[4,7) anos",50,1,nível 2,bom
+844,sem conta,18,3422,<100,> 7 anos,47,3,nível 2,bom
+845,[0-200),21,3976,sem conta,"[4,7) anos",35,1,nível 2,bom
+846,sem conta,18,6761,sem conta,"[1,4) anos",68,2,nível 2,mau
+847,sem conta,24,1249,<100,< 1 ano,28,1,nível 2,bom
+848,negativo,9,1364,<100,"[4,7) anos",59,1,nível 2,bom
+849,negativo,12,709,<100,> 7 anos,57,1,nível 1,mau
+850,negativo,20,2235,<100,"[1,4) anos",33,2,nível 2,mau
+851,sem conta,24,4042,sem conta,"[4,7) anos",43,2,nível 2,bom
+852,sem conta,15,1471,<100,"[1,4) anos",35,2,nível 2,bom
+853,negativo,18,1442,<100,"[4,7) anos",32,2,nível 1,mau
+854,sem conta,36,10875,<100,> 7 anos,45,2,nível 2,bom
+855,sem conta,24,1474,[100-500),< 1 ano,33,1,nível 2,bom
+856,sem conta,10,894,sem conta,"[4,7) anos",40,1,nível 2,bom
+857,sem conta,15,3343,<100,"[1,4) anos",28,1,nível 2,bom
+858,negativo,15,3959,<100,"[1,4) anos",29,1,nível 2,mau
+859,sem conta,9,3577,[100-500),"[1,4) anos",26,1,nível 2,bom
+860,sem conta,24,5804,>1000,"[1,4) anos",27,2,nível 2,bom
+861,sem conta,18,2169,<100,"[1,4) anos",28,1,nível 2,mau
+862,negativo,24,2439,<100,< 1 ano,35,1,nível 2,mau
+863,sem conta,27,4526,>1000,< 1 ano,32,2,nível 1,bom
+864,sem conta,10,2210,<100,"[1,4) anos",25,1,nível 1,mau
+865,sem conta,15,2221,[500-1000),"[1,4) anos",20,1,nível 2,bom
+866,negativo,18,2389,<100,< 1 ano,27,1,nível 2,bom
+867,sem conta,12,3331,<100,> 7 anos,42,1,nível 2,bom
+868,sem conta,36,7409,sem conta,> 7 anos,37,2,nível 2,bom
+869,negativo,12,652,<100,> 7 anos,24,1,nível 2,bom
+870,sem conta,36,7678,[500-1000),"[4,7) anos",40,2,nível 2,bom
+871,200+,6,1343,<100,> 7 anos,46,2,nível 2,bom
+872,negativo,24,1382,[100-500),"[4,7) anos",26,2,nível 2,bom
+873,sem conta,15,874,sem conta,< 1 ano,24,1,nível 2,bom
+874,negativo,12,3590,<100,"[1,4) anos",29,1,nível 1,bom
+875,[0-200),11,1322,>1000,"[1,4) anos",40,2,nível 2,bom
+876,negativo,18,1940,<100,< 1 ano,36,1,nível 3,bom
+877,sem conta,36,3595,<100,> 7 anos,28,1,nível 2,bom
+878,negativo,9,1422,<100,< 1 ano,27,1,nível 3,mau
+879,sem conta,30,6742,sem conta,"[4,7) anos",36,2,nível 2,bom
+880,sem conta,24,7814,<100,"[4,7) anos",38,1,nível 3,bom
+881,sem conta,24,9277,sem conta,"[1,4) anos",48,1,nível 2,bom
+882,[0-200),30,2181,sem conta,> 7 anos,36,2,nível 2,bom
+883,sem conta,18,1098,<100,desempregado,65,2,desempregado,bom
+884,[0-200),24,4057,<100,"[4,7) anos",43,1,nível 2,mau
+885,negativo,12,795,<100,< 1 ano,53,1,nível 2,mau
+886,[0-200),24,2825,sem conta,"[4,7) anos",34,2,nível 2,bom
+887,[0-200),48,15672,<100,"[1,4) anos",23,1,nível 2,mau
+888,sem conta,36,6614,<100,> 7 anos,34,2,nível 3,bom
+889,sem conta,28,7824,sem conta,< 1 ano,40,2,nível 2,bom
+890,negativo,27,2442,<100,> 7 anos,43,4,nível 3,bom
+891,sem conta,15,1829,<100,> 7 anos,46,2,nível 2,bom
+892,negativo,12,2171,<100,"[1,4) anos",38,2,nível 1,bom
+893,[0-200),36,5800,<100,"[1,4) anos",34,2,nível 2,bom
+894,sem conta,18,1169,sem conta,"[1,4) anos",29,2,nível 2,bom
+895,sem conta,36,8947,sem conta,"[4,7) anos",31,1,nível 3,bom
+896,negativo,21,2606,<100,< 1 ano,28,1,nível 3,bom
+897,sem conta,12,1592,>1000,"[4,7) anos",35,1,nível 2,bom
+898,sem conta,15,2186,sem conta,"[4,7) anos",33,1,nível 1,bom
+899,negativo,18,4153,<100,"[1,4) anos",42,1,nível 2,mau
+900,negativo,16,2625,<100,> 7 anos,43,1,nível 2,mau
+901,sem conta,20,3485,sem conta,< 1 ano,44,2,nível 2,bom
+902,sem conta,36,10477,sem conta,> 7 anos,42,2,nível 2,bom
+903,sem conta,15,1386,sem conta,"[1,4) anos",40,1,nível 2,bom
+904,sem conta,24,1278,<100,> 7 anos,36,1,nível 3,bom
+905,negativo,12,1107,<100,"[1,4) anos",20,1,nível 3,bom
+906,negativo,21,3763,sem conta,"[4,7) anos",24,1,nível 1,bom
+907,[0-200),36,3711,sem conta,"[1,4) anos",27,1,nível 2,bom
+908,sem conta,15,3594,<100,< 1 ano,46,2,nível 1,bom
+909,[0-200),9,3195,sem conta,"[1,4) anos",33,1,nível 1,bom
+910,sem conta,36,4454,<100,"[1,4) anos",34,2,nível 2,bom
+911,[0-200),24,4736,<100,< 1 ano,25,1,nível 1,mau
+912,[0-200),30,2991,sem conta,> 7 anos,25,1,nível 2,bom
+913,sem conta,11,2142,>1000,> 7 anos,28,1,nível 2,bom
+914,negativo,24,3161,<100,"[1,4) anos",31,1,nível 2,mau
+915,[0-200),48,18424,<100,"[1,4) anos",32,1,nível 3,mau
+916,sem conta,10,2848,[100-500),"[1,4) anos",32,1,nível 2,bom
+917,negativo,6,14896,<100,> 7 anos,68,1,nível 3,mau
+918,negativo,24,2359,[100-500),desempregado,33,1,nível 2,mau
+919,negativo,24,3345,<100,> 7 anos,39,1,nível 3,mau
+920,sem conta,18,1817,<100,"[1,4) anos",28,2,nível 2,bom
+921,sem conta,48,12749,[500-1000),"[4,7) anos",37,1,nível 3,bom
+922,negativo,9,1366,<100,< 1 ano,22,1,nível 2,mau
+923,[0-200),12,2002,<100,"[4,7) anos",30,1,nível 2,bom
+924,negativo,24,6872,<100,< 1 ano,55,1,nível 2,mau
+925,negativo,12,697,<100,< 1 ano,46,2,nível 2,mau
+926,negativo,18,1049,<100,< 1 ano,21,1,nível 2,bom
+927,negativo,48,10297,<100,"[4,7) anos",39,3,nível 2,mau
+928,sem conta,30,1867,sem conta,> 7 anos,58,1,nível 2,bom
+929,negativo,12,1344,<100,"[1,4) anos",43,2,nível 1,bom
+930,negativo,24,1747,<100,< 1 ano,24,1,nível 1,bom
+931,[0-200),9,1670,<100,< 1 ano,22,1,nível 2,mau
+932,sem conta,9,1224,<100,"[1,4) anos",30,2,nível 2,bom
+933,sem conta,12,522,[500-1000),> 7 anos,42,2,nível 2,bom
+934,negativo,12,1498,<100,"[1,4) anos",23,1,nível 2,bom
+935,[0-200),30,1919,[100-500),< 1 ano,30,2,nível 3,mau
+936,200+,9,745,<100,"[1,4) anos",28,1,nível 1,mau
+937,[0-200),6,2063,<100,< 1 ano,30,1,nível 3,bom
+938,[0-200),60,6288,<100,"[1,4) anos",42,1,nível 2,mau
+939,sem conta,24,6842,sem conta,"[1,4) anos",46,2,nível 3,bom
+940,sem conta,12,3527,sem conta,< 1 ano,45,1,nível 3,bom
+941,sem conta,10,1546,<100,"[1,4) anos",31,1,nível 1,bom
+942,sem conta,24,929,sem conta,"[4,7) anos",31,1,nível 2,bom
+943,sem conta,4,1455,<100,"[4,7) anos",42,3,nível 1,bom
+944,negativo,15,1845,<100,< 1 ano,46,1,nível 2,bom
+945,[0-200),48,8358,[500-1000),< 1 ano,30,2,nível 2,bom
+946,negativo,24,3349,[500-1000),< 1 ano,30,1,nível 2,mau
+947,sem conta,12,2859,sem conta,desempregado,38,1,nível 3,bom
+948,sem conta,18,1533,<100,< 1 ano,43,1,nível 1,mau
+949,sem conta,24,3621,[100-500),> 7 anos,31,2,nível 2,mau
+950,[0-200),18,3590,<100,desempregado,40,3,desempregado,bom
+951,negativo,36,2145,<100,"[4,7) anos",24,2,nível 2,mau
+952,[0-200),24,4113,[500-1000),< 1 ano,28,1,nível 2,mau
+953,sem conta,36,10974,<100,desempregado,26,2,nível 3,mau
+954,negativo,12,1893,<100,"[1,4) anos",29,1,nível 2,bom
+955,negativo,24,1231,>1000,> 7 anos,57,2,nível 3,bom
+956,200+,30,3656,sem conta,> 7 anos,49,2,nível 1,bom
+957,[0-200),9,1154,<100,> 7 anos,37,3,nível 1,bom
+958,negativo,28,4006,<100,"[1,4) anos",45,1,nível 1,mau
+959,[0-200),24,3069,[100-500),> 7 anos,30,1,nível 2,bom
+960,sem conta,6,1740,<100,> 7 anos,30,2,nível 2,bom
+961,[0-200),21,2353,<100,"[1,4) anos",47,2,nível 2,bom
+962,sem conta,15,3556,sem conta,"[1,4) anos",29,1,nível 2,bom
+963,sem conta,24,2397,[500-1000),> 7 anos,35,2,nível 2,mau
+964,[0-200),6,454,<100,< 1 ano,22,1,nível 1,bom
+965,[0-200),30,1715,sem conta,"[1,4) anos",26,1,nível 2,bom
+966,[0-200),27,2520,[500-1000),"[1,4) anos",23,2,nível 1,mau
+967,sem conta,15,3568,<100,> 7 anos,54,1,nível 3,bom
+968,sem conta,42,7166,sem conta,"[4,7) anos",29,1,nível 2,bom
+969,negativo,11,3939,<100,"[1,4) anos",40,2,nível 1,bom
+970,[0-200),15,1514,[100-500),"[1,4) anos",22,1,nível 2,bom
+971,sem conta,24,7393,<100,"[1,4) anos",43,1,nível 1,bom
+972,negativo,24,1193,<100,desempregado,29,2,desempregado,mau
+973,negativo,60,7297,<100,> 7 anos,36,1,nível 2,mau
+974,sem conta,30,2831,<100,"[1,4) anos",33,1,nível 2,bom
+975,200+,24,1258,[500-1000),"[1,4) anos",57,1,nível 1,bom
+976,[0-200),6,753,<100,"[1,4) anos",64,1,nível 2,bom
+977,[0-200),18,2427,sem conta,> 7 anos,42,2,nível 2,bom
+978,sem conta,24,2538,<100,> 7 anos,47,2,nível 1,mau
+979,[0-200),15,1264,[100-500),"[1,4) anos",25,1,nível 2,mau
+980,[0-200),30,8386,<100,"[4,7) anos",49,1,nível 2,mau
+981,sem conta,48,4844,<100,desempregado,33,1,nível 3,mau
+982,200+,21,2923,[100-500),"[1,4) anos",28,1,nível 3,bom
+983,negativo,36,8229,<100,"[1,4) anos",26,1,nível 2,mau
+984,sem conta,24,2028,<100,"[4,7) anos",30,2,nível 1,bom
+985,negativo,15,1433,<100,"[1,4) anos",25,2,nível 2,bom
+986,200+,42,6289,<100,< 1 ano,33,2,nível 2,bom
+987,sem conta,13,1409,[100-500),desempregado,64,1,nível 2,bom
+988,negativo,24,6579,<100,desempregado,29,1,nível 3,bom
+989,[0-200),24,1743,<100,> 7 anos,48,2,nível 1,bom
+990,sem conta,12,3565,sem conta,< 1 ano,37,2,nível 1,bom
+991,sem conta,15,1569,[100-500),> 7 anos,34,1,nível 1,bom
+992,negativo,18,1936,sem conta,"[4,7) anos",23,2,nível 1,bom
+993,negativo,36,3959,<100,desempregado,30,1,nível 3,bom
+994,sem conta,12,2390,sem conta,> 7 anos,50,1,nível 2,bom
+995,sem conta,12,1736,<100,"[4,7) anos",31,1,nível 1,bom
+996,negativo,30,3857,<100,"[1,4) anos",40,1,nível 3,bom
+997,sem conta,12,804,<100,> 7 anos,38,1,nível 2,bom
+998,negativo,45,1845,<100,"[1,4) anos",23,1,nível 2,mau
+999,[0-200),45,4576,[100-500),desempregado,27,1,nível 2,bom
